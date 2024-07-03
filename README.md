@@ -252,7 +252,12 @@ Notes from searching:
 - This script doesn't require administrative privileges for brightness control, but some color settings might need elevated permissions if they're accessible.
 - Windows doesn't seem to provide as comprehensive control over monitor settings through standard APIs as Linux does with tools like ddcutil.
 
+# Alternatives
 
+In case you didn't read anything above, and you are just searching for alternatives, here are the ones I've found. 
+
+Linux - https://github.com/LordAmit/Brightness
+Windows - https://github.com/emoacht/Monitorian
 
 # LICENSE
 
